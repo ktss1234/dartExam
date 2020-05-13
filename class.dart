@@ -15,10 +15,10 @@ class SmallDog extends Dog {
   }
 }
 
-class SmallDog {
-  // const MAX_BODY_SIZE = 30;
-  isSmall 
-}
+// class SmallDog {
+//   // const MAX_BODY_SIZE = 30;
+//   isSmall 
+// }
 
 // void main() {
 //   var dog1 = Dog(type: 'lll', name: 'dksfjalksjf');
