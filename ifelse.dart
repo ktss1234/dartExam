@@ -4,7 +4,7 @@ void main() {
     print('Old');
   } else if (age > 20) {
     print('Medium');
-  } else {
+  } else if (age > 10) {
     print('Young');
   }
 }
